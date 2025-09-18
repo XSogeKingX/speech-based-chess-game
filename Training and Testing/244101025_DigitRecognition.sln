@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "244101025_DigitRecognition", "244101025_DigitRecognition\244101025_DigitRecognition.vcxproj", "{4C994366-93AA-4E62-9BB9-EC1F39CAD996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C994366-93AA-4E62-9BB9-EC1F39CAD996}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C994366-93AA-4E62-9BB9-EC1F39CAD996}.Debug|Win32.Build.0 = Debug|Win32
+		{4C994366-93AA-4E62-9BB9-EC1F39CAD996}.Release|Win32.ActiveCfg = Release|Win32
+		{4C994366-93AA-4E62-9BB9-EC1F39CAD996}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

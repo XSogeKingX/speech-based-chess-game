@@ -1,0 +1,7 @@
+No Special Requirements are needed.
+
+Basic Requirement
+
+i)    Windows
+ii)   VS Studios 2010
+iii)  Working Mic
